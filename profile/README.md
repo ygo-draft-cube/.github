@@ -1,12 +1,22 @@
-## Hi there 👋
+## Welcome to Yu-Gi-Oh! Draft Cube
 
-<!--
+**WORK IN PROGRESS!**
 
-**Here are some ideas to get you started:**
+Check out our app [here](http://ydc-fe-static-web-bucket.s3-website-us-east-1.amazonaws.com/)!
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We're a group of Yu-Gi-Oh players that enjoy playing different draft formats and decided to make an app to help us and others draft better.
+
+-------
+
+## Dev Shortcuts
+
+[Design Document](https://github.com/ygo-draft-cube/.github/wiki/Design-Document)
+
+### App in Envs
+
+[Test](http://ydc-fe-static-web-bucket.s3-website-us-east-1.amazonaws.com/)
+
+Staging
+
+Prod
+
