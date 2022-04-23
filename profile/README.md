@@ -1,4 +1,4 @@
-## Welcome to Yu-Gi-Oh! Draft Cube
+## Welcome to Yu-Gi-Oh! Draft Cube: Making Yu-Gi-Oh! Draft Nights Better
 
 **WORK IN PROGRESS!**
 
